@@ -631,7 +631,7 @@
   .understand_right {
     position: absolute;
     right: 0;
-    top: 400px;
+    top: 430px;
     width: 370px;
     display: flex;
   }
@@ -722,7 +722,7 @@
     order: 0;
     position: absolute;
     left: 0;
-    top: 535px;
+    top: 555px;
     width: 370px;
     display: flex;
   }
